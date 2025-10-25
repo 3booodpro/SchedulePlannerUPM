@@ -1,0 +1,223 @@
+[
+  {
+    "Course": "SE 262 - Software Engineering",
+    "Sections": [
+      {
+        "Class": 1774,
+        "Section": "L01-LEC Regular",
+        "Days & Times": "TuThSu 10:00AM - 10:50AM",
+        "Room": "BC231",
+        "Instructor": "Khaled Boukesra",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      },
+      {
+        "Class": 2174,
+        "Section": "L02-LEC Regular",
+        "Days & Times": "MoWe 8:00AM - 9:15AM",
+        "Room": "BC270",
+        "Instructor": "Khaled Boukesra",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      }
+    ]
+  },
+  {
+    "Course": "SE 311 - Software Requirements Engineering",
+    "Sections": [
+      {
+        "Class": 1777,
+        "Section": "L01-LEC Regular",
+        "Days & Times": "MoWe 9:30AM - 10:45AM",
+        "Room": "BC231",
+        "Instructor": "Basit Shahzad",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      }
+    ]
+  },
+  {
+    "Course": "SE 323 - Software Process and Modeling",
+    "Sections": [
+      {
+        "Class": 1775,
+        "Section": "L01-LEC Regular",
+        "Days & Times": "MoWe 11:00AM - 12:15PM",
+        "Room": "BC267",
+        "Instructor": "Osama Mohammed",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      },
+      {
+        "Class": 1778,
+        "Section": "LB01-LAB Regular",
+        "Days & Times": "Su 11:00AM - 12:40PM",
+        "Room": "BC269",
+        "Instructor": "Osama Mohammed",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      }
+    ]
+  },
+  {
+    "Course": "SE 394 - Practical Training",
+    "Sections": [
+      {
+        "Class": 2366,
+        "Section": "L01-PRI Regular",
+        "Days & Times": "TBA",
+        "Room": "TBA",
+        "Instructor": "Khaled Boukesra",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      }
+    ]
+  },
+  {
+    "Course": "SE 431 - Software Maintenance and Evolution",
+    "Sections": [
+      {
+        "Class": 1799,
+        "Section": "L01-LEC Regular",
+        "Days & Times": "MoWe 9:30AM - 10:45AM",
+        "Room": "BC265",
+        "Instructor": "Abdurrazag Suliman Almaldi",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      }
+    ]
+  },
+  {
+    "Course": "SE 464 - Software Project Management",
+    "Sections": [
+      {
+        "Class": 1778,
+        "Section": "L01-LEC Regular",
+        "Days & Times": "TuThSu 9:00AM - 9:50AM",
+        "Room": "BC267",
+        "Instructor": "Basit Shahzad",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      }
+    ]
+  },
+  {
+    "Course": "SE 472 - Software Security",
+    "Sections": [
+      {
+        "Class": 2306,
+        "Section": "L01-LEC Regular",
+        "Days & Times": "Tu 6:00PM - 6:50PM, Tu 7:00PM - 7:50PM",
+        "Room": "ONLINE",
+        "Instructor": "Mr Ahmed Syed Kamran",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      },
+      {
+        "Class": 2307,
+        "Section": "L02-LEC Regular",
+        "Days & Times": "Th 9:00AM - 9:50AM, Th 10:00AM - 10:50AM",
+        "Room": "ONLINE",
+        "Instructor": "Mr Ahmed Syed Kamran",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      },
+      {
+        "Class": 2308,
+        "Section": "LB01-LAB Regular",
+        "Days & Times": "Th 2:00PM - 4:30PM",
+        "Room": "BC261",
+        "Instructor": "Hammad Anjum, Zubair Zubairi",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      },
+      {
+        "Class": 2309,
+        "Section": "LB02-LAB Regular",
+        "Days & Times": "Mo 2:00PM - 4:30PM",
+        "Room": "BC233",
+        "Instructor": "Hammad Anjum, Zubair Zubairi",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Open"
+      }
+    ]
+  },
+  {
+    "Course": "SE 491 - Capstone Project I",
+    "Sections": [
+      {
+        "Class": 2395,
+        "Section": "L01-FLD Regular",
+        "Days & Times": "TBA",
+        "Room": "TBA",
+        "Instructor": "Basit Shahzad",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      },
+      {
+        "Class": 2396,
+        "Section": "L02-FLD Regular",
+        "Days & Times": "TBA",
+        "Room": "TBA",
+        "Instructor": "Dr Hazrina Binti Sofian",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      },
+      {
+        "Class": 2397,
+        "Section": "L03-FLD Regular",
+        "Days & Times": "TBA",
+        "Room": "TBA",
+        "Instructor": "Abdurrazag Suliman Almaldi",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      },
+      {
+        "Class": 2394,
+        "Section": "L04-FLD Regular",
+        "Days & Times": "TBA",
+        "Room": "TBA",
+        "Instructor": "Basit Shahzad",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      }
+    ]
+  },
+  {
+    "Course": "SE 492 - Capstone Project II",
+    "Sections": [
+      {
+        "Class": 2394,
+        "Section": "L01-FLD Regular",
+        "Days & Times": "TBA",
+        "Room": "TBA",
+        "Instructor": "Khaled Boukesra",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      }
+    ]
+  },
+  {
+    "Course": "SE 495 - Introduction to Cloud Computing and Security",
+    "Sections": [
+      {
+        "Class": 2305,
+        "Section": "L01-LEC Regular",
+        "Days & Times": "TuSu 8:00PM - 8:50PM",
+        "Room": "ONLINE",
+        "Instructor": "Ashraf Hafez Badawi",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      },
+      {
+        "Class": 2257,
+        "Section": "LB01-LAB Regular",
+        "Days & Times": "Su 9:00PM - 10:40PM",
+        "Room": "ONLINE",
+        "Instructor": "Ashraf Hafez Badawi",
+        "Meeting Dates": "08/31/2025 - 12/18/2025",
+        "Status": "Closed"
+      }
+    ]
+  }
+]
