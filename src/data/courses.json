@@ -1,0 +1,64 @@
+{
+  "courses": [
+    {
+      "id": "SE323",
+      "section": "L01",
+      "title": "Software Process and Modeling",
+      "instructor": "Osama Qaed",
+      "days": ["Mon", "Wed"],
+      "start": "11:00 AM",
+      "end": "12:15 PM",
+      "category": "SE"
+    },
+    {
+      "id": "SE311",
+      "section": "L01",
+      "title": "Software Requirements Engineering",
+      "instructor": "Basit Shahzad",
+      "days": ["Mon", "Wed"],
+      "start": "09:30 AM",
+      "end": "10:45 AM",
+      "category": "SE"
+    },
+    {
+      "id": "SE339",
+      "section": "L02",
+      "title": "Quality Assurance",
+      "instructor": "Sarah Nadeem",
+      "days": ["Tue", "Thu"],
+      "start": "02:00 PM",
+      "end": "03:15 PM",
+      "category": "SE"
+    },
+    {
+      "id": "CS210",
+      "section": "L02",
+      "title": "Data Structures",
+      "instructor": "Nadia Hassan",
+      "days": ["Sun", "Tue"],
+      "start": "10:00 AM",
+      "end": "11:15 AM",
+      "category": "CS"
+    },
+    {
+      "id": "CS221",
+      "section": "L01",
+      "title": "Database Systems",
+      "instructor": "Imran Zahid",
+      "days": ["Sun", "Tue"],
+      "start": "01:00 PM",
+      "end": "02:15 PM",
+      "category": "CS"
+    },
+    {
+      "id": "CS305",
+      "section": "L03",
+      "title": "Operating Systems",
+      "instructor": "Huda Ali",
+      "days": ["Mon", "Wed"],
+      "start": "04:00 PM",
+      "end": "05:15 PM",
+      "category": "CS"
+    }
+  ]
+}
